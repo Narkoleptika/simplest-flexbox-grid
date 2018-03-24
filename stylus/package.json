@@ -1,0 +1,19 @@
+{
+  "name": "simplest-stylus-flexbox-grid",
+  "version": "1.0.0",
+  "description": "This is a set of simple Stylus mixins meant to provide a basic grid for your websites. <https://ajy.co/the-simplest-sass-flexbox-grid-ever>",
+  "main": "index.styl",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aaronjamesyoung/simplest-flexbox-grid.git"
+  },
+  "author": "Aaron Young",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaronjamesyoung/simplest-flexbox-grid/issues"
+  },
+  "homepage": "https://github.com/aaronjamesyoung/simplest-flexbox-grid#readme"
+}
